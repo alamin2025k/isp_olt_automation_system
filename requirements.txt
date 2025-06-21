@@ -1,1 +1,7 @@
-
+Django~=4.2
+python-dotenv~=1.0
+psycopg2-binary~=2.9 # Or mysqlclient for MySQL
+netmiko~=4.1 # For OLT/MikroTik SSH communication
+django-environ~=0.10 # For easy .env file management
+celery~=5.3 # For background tasks (optional, but good for scaling)
+redis~=5.0 # For Celery broker (if used)
