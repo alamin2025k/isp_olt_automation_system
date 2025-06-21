@@ -22,7 +22,7 @@ This project aims to automate various tasks for Internet Service Providers (ISPs
 
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/alamin2025k/isp_olt_automation_system.git)
+    git clone https://github.com/alamin2025k/isp_olt_automation_system.git
     cd isp_automation_system
     ```
 2.  **Create a virtual environment and install dependencies:**
